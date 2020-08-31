@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "outDir": "build",
+    },
+    "files": [
+        "typings/index.d.ts",
+        "ts-src/app.ts",
+    ]
+}
